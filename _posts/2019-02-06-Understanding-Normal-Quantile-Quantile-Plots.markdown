@@ -5,8 +5,9 @@ date: 2019-02-06
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- markdown
-- elements
+- Statistic
+- Visualization
+- machine Learning
 star: true
 category: blog
 author: Chan Paul
